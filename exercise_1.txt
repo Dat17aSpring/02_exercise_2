@@ -8,18 +8,20 @@ HTML can embed programs written in a scripting language such as JavaScript which
 
 Contents
 
-1	History
-  1	Development
-  2	HTML versions timeline
-    1	HTML draft version timeline
-    2	XHTML versions
-2	Markup
-  1	Elements
-    1	Element examples
-    2	Attributes
-  2	Character and entity references
-  3	Data types
-  4	Document type declaration
-3	Semantic HTML
+History
+Development
+HTML versions timeline
+HTML draft version timeline
+XHTML versions
+Markup
+Elements
+Element examples
+Attributes
+Character and entity references
+Data types
+Document type declaration
+Semantic HTML
 
 
+W3C (X)HTML Validator
+Semantic HTML
