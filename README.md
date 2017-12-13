@@ -26,3 +26,6 @@ A discription of the tags and how to use them can be found at http://www.w3schoo
 Notice that the html tags in the actual text is not shown. You did not learn how to do that, but do you have an idea on how to?     
 
 _NOTE: In order for this to work you will need a method in your controller that returns the string "exercise_1"._
+
+
+_<div align="right">&copy; clbo@kea.dk</div>_
